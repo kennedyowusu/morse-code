@@ -138,6 +138,12 @@ Example:
 - Twitter: [@_iamkobby](https://twitter.com/_iamkobby)
 - LinkedIn: [kennedyowusu](www.linkedin.com/in/kennedyowusu)
 
+👤 **George Kinyanjui**
+
+- GitHub: [@george827](https://github.com/george827)
+- Twitter: [George kinyanjui](https://twitter.com/geok8376)
+- LinkedIn: [George kinyanjui](https://www.linkedin.com/in/georgekinyanjui/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -154,7 +160,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/kennedyowusu/morse-code/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,8 +193,8 @@ I would like to thank Microverse for inspiring this project idea.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/kennedyowusu/morse-code/blob/develop/MIT.md) licensed.
 
-_NOTE: we recommend using the [MIT license](https://github.com/kennedyowusu/morse-code/blob/decode-morse-code/LICENSE) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
