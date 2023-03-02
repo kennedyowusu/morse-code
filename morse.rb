@@ -45,14 +45,14 @@ MORSE_CODE = {
   '.--.-.' => '@',
   '-...-' => '=',
   '.-.-.' => '+'
-}
+}.freeze
 
-def decode_word(word)
-  code.split(' ').map { |char| MORSE_CODE[char] || char }.join('')
+def decode_word(_)
+  word.split.map { |char| MORSE_CODE[char] || char }.join(' ')
 end
 
 def decode_sentence(sentence)
-  code.split(' ').map { |char| MORSE_CODE[char] || char }.join('')
+  sentence.split.map { |char| MORSE_CODE[char] || char }.join(' ')
 end
 
 puts decode_sentence('      .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
