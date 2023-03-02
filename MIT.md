@@ -1,4 +1,4 @@
-## Copyright 2021, Kennedy Owusu & George Kamau Kinyanjui 
+## Copyright 2023, Kennedy Owusu & George Kamau Kinyanjui 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this Morse Code and associated documentation files, to deal in the Morse Code without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Morse Code, and to permit persons to whom the [APP TYPE] is furnished to do so, subject to the following conditions:
 
